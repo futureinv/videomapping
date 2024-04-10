@@ -25,6 +25,8 @@ MAPPING
       - muovere le forme
 2.PERSONALIZZAZIONE
       - inserire contenuti 
+      - sequence
+      - animate picture
       - contenuti personalizzati 
 ## errori nell'utilizzo
    - se scompare la patch 
