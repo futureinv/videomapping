@@ -1,6 +1,6 @@
-# videomapping #
+# Videomapping #
 
-# requisiti
+# Requisiti
   - programma:
     Isadora v.3. 
   - sistema operativo:
@@ -11,14 +11,14 @@
     - AMD
   - proiettore
   - webcam 
-# installazione
-## isadora
+# Installazione
+## Isadora
 Scaricare Isadora v.3 dal [sito ufficiale](https://troikatronix.com/get-it/). Una volta scaricato fare doppio click sul file .exe per installare: per mandare avanti l'installazione è sufficiente cliccare sempre su Next, nella seconda schermata è necessario selezionare "I accept the terms in the license Agreement". L'installazione può richiedere qualche minuto.
 
-## estensione
+## Estensione
 Sulla pagina Github dal menù a tendina "code", nella sezione "local" selezionare la voce "download .zip". Estrarre i file dalla cartella.
 
-## come usare l'estensione
+## Come usare l'estensione
 show stages 
 1. MAPPING
       - creare le forme
