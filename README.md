@@ -2,7 +2,7 @@
 
 ## requisiti
   - <strong> programma </strong>:
-    Isadora v.3. È possibile scaricare il programma dal [sito ufficiale] (https://troikatronix.com/get-it/)
+    Isadora v.3. È possibile scaricare il programma dal [sito ufficiale]([https://www.tuio.org/].
   - sistema operativo:
     - Windows 10
     - Windows 11
