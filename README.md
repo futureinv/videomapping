@@ -1,7 +1,7 @@
 # videomapping #
 
 ## requisiti
-  - programma:
+  - <strong> programma </strong>:
     è necessario installare <strong> Isadora v.3 </strong>. È possibile scaricare il programma dal sito ufficiale: https://troikatronix.com/get-it/
   - sistema operativo:
     Isadora 3 is supported on macOS 10.14 (Mojave) through macOS 13 (Ventura) with a 64-bit Intel or Apple silicon 
