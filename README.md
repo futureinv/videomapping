@@ -10,11 +10,12 @@
   - isadora
   - patch
 ## come usare
+show stages 
 MAPPING
       - creare le forme
       - ridimensionare le forme
       - muovere le forme
-2.PERSONALIZZAZIONE
+PERSONALIZZAZIONE
       - inserire contenuti (disabled color, immagini/video, effetti)
       - contenuti personalizzati (installazione webcam, registratore, contenuti live, inserire)
 ## licenza
