@@ -21,8 +21,9 @@ L'estensione contenuta all'interno del progetto è progettata per rendere access
 Scaricare Isadora 3 dal [sito ufficiale](https://troikatronix.com/get-it/). Una volta scaricato fare doppio click sul file .exe per installare: per mandare avanti l'installazione è sufficiente cliccare sempre su Next, nella seconda schermata è necessario selezionare "I accept the terms in the license Agreement". L'installazione può richiedere qualche minuto.
 
 ## Estensione
-Sulla pagina Github dal menù a tendina "code", nella sezione "local" selezionare la voce "download .zip". Estrarre i file dalla cartella.
-Aprire con doppio click il file "mappingClient_light_v3_0.izz" per accedere alla versione 3 della patch.
+- Scaricare l'estensione dalla pagina Github. Dal menù a tendina "code", nella sezione "local" selezionare la voce "download .zip". 
+- Estrarre i file dalla cartella.
+- Aprire con doppio click il file "mappingClient_light_v3_0.izz" per accedere alla versione 3 della patch.
 
 ## Proiettore
 Collegare il proiettore al PC tramite cavo HDMI o USB in dotazione.
