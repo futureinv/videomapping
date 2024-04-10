@@ -1,4 +1,6 @@
 # Videomapping #
+Il videomapping è una tecnica che consente di proiettare immagini, animazioni e video su superfici diverse dal classico schermo. Grazie a un software infatti è possibile adattare la proiezione video alla forma e alla dimensione della superficie stessa.
+
 
 # Requisiti
   - programma:
