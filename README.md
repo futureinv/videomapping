@@ -52,5 +52,5 @@ show stages
       - contenuti personalizzati 
 ## errori nell'utilizzo
    - se scompare la patch 
-   - wecam non funziona
+   - webcam non funziona
 -->  
