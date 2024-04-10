@@ -18,6 +18,7 @@ Scaricare Isadora v.3 dal [sito ufficiale](https://troikatronix.com/get-it/). Un
 ## Estensione
 Sulla pagina Github dal menù a tendina "code", nella sezione "local" selezionare la voce "download .zip". Estrarre i file dalla cartella.
 
+<!--
 ## Come usare l'estensione
 show stages 
 1. MAPPING
@@ -41,4 +42,4 @@ show stages
 ## errori nell'utilizzo
    - se scompare la patch 
    - wecam non funziona
-   
+-->  
