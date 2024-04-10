@@ -11,20 +11,20 @@
   - patch
 ## come usare
 show stages 
-MAPPING
+1. MAPPING
       - creare le forme
       - ridimensionare le forme
       - muovere le forme
-PERSONALIZZAZIONE
+2. PERSONALIZZAZIONE
       - inserire contenuti (disabled color, immagini/video, effetti)
       - contenuti personalizzati (installazione webcam, registratore, contenuti live, inserire)
 ## licenza
 ## esempi
-1.MAPPING
+1. MAPPING
       - creare le forme
       - ridimensionare le forme
       - muovere le forme
-2.PERSONALIZZAZIONE
+2. PERSONALIZZAZIONE
       - inserire contenuti 
       - sequence
       - animate picture
