@@ -10,20 +10,20 @@
   - isadora
   - patch
 ## come usare
-###  MAPPING
+MAPPING
       - creare le forme
       - ridimensionare le forme
       - muovere le forme
-### PERSONALIZZAZIONE
+2.PERSONALIZZAZIONE
       - inserire contenuti (disabled color, immagini/video, effetti)
       - contenuti personalizzati (installazione webcam, registratore, contenuti live, inserire)
 ## licenza
 ## esempi
-###  MAPPING
+1.MAPPING
       - creare le forme
       - ridimensionare le forme
       - muovere le forme
-### PERSONALIZZAZIONE
+2.PERSONALIZZAZIONE
       - inserire contenuti 
       - contenuti personalizzati 
 ## errori nell'utilizzo
