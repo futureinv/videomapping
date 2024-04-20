@@ -1,7 +1,8 @@
 # Videomapping #
-Il videomapping è una tecnica che consente di proiettare immagini, animazioni e video su superfici diverse dal classico schermo. Grazie a un software infatti è possibile adattare la proiezione video alla forma e alla dimensione della superficie stessa.
+Il videomapping è una tecnica che consente di proiettare immagini, animazioni e video su superfici diverse dal classico schermo. Tramite l'utilizzo di un software, infatti, è possibile adattare la proiezione video alla forma e alla dimensione della superficie stessa.
 
-L'estensione contenuta all'interno del progetto è progettata per rendere accessibile ad un pubblico non esperto la tecnica del videomapping, partendo dal software di Isadora v.3.
+La patch contenuta all'interno del progetto è progettata per rendere accessibile ad un pubblico non esperto la tecnica del videomapping, partendo dal software Isadora - Projection Mapping.
+L'estensione è stata sviluppata per il Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci (MUST).
 
 # Requisiti
   - programma:
@@ -9,9 +10,8 @@ L'estensione contenuta all'interno del progetto è progettata per rendere access
   - sistema operativo:
     - Windows 10
     - Windows 11
-  - processore:
-    - Intel
-    - AMD
+    - macOS 10.14 (Mojave)
+    - macOS 13 (Ventura)
   - proiettore
   - webcam
 
