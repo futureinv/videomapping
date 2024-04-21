@@ -63,11 +63,22 @@ Se il contenuto  scelto è un'immagine, si può usare il pulsante "Animate" per 
 ### la modalità "Sequence"
 Quando si lavora con le diverse forme si ha la possibilità di impostare una sequenza di contenuti da riprodurre in sequenza automaticamente. Per farlo  bisogna abbinare a ciascuno "step" della sequenza un'immagine o un video. Tramite il menù a tendina è possibile selezionare lo "step01...step08" e poi scegliere il video o l'immagine da riprodurre in quello step. Tramite la rotella "time image" si può regolare il tempo di visualizzazione in secondi dell'immagine. Il passagio può essere ripetuto fino a un numero massimo di 8 volte. Premendo poi sul tasto "on/off" si avvia la riproduzione della sequenza. Con il pulsante "loop" è possibile attivare/disattivare il loop della sequenza. Quando la sequenza non è attiva, si possono usare i pulsanti + e - per scorrere e visualizzare i singoli step. 
 ### creare contenuti con la webcam
-### caricare immagini e video
+La modalità "Live Video" permette di registrare dei propri contenuti video. Premendo su "turn on webcam" il programam attiva la webcam selezionata. Se non compare nessuna immagine assicurarsi di aver collegato correttamente la webcam: dalla barra delle applicazioni in alto andare su o "Input"→ "Live Capture Settings" e selezionare la webcam corretta.
+Per iniziare la registrazione è sufficiente cliccare sul pulsante "Record", per termirla cliccare nuovamente sul pulsante. 
+Tramite una serie di comandi è possibile modificare il video prima o durante la registrazione. Si può:
+- capovolgere l'immagine video in diretta in orizzontale o in verticale
+- usare  il pulsante "Invert video" per invertire il colore del video.
+- utilizzare i cursori di contrasto per modificare la luminosità/il contrasto del video.
+- utilizzare i cursori zoom e pan per ritagliare  le immagini della webcam.
+Il video verrà salvato in fondo alla sezione "Video Files".
+
+
 
 <!--
+### caricare immagini e video
 
 ## errori nell'utilizzo
+manueale: (https://troikatronix.com/files/isadora-manual.pdf)
    - se scompare la patch 
    - webcam non funziona
 -->  
