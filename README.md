@@ -47,28 +47,24 @@ L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videom
 Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. Premendo uno dei pulsanti "Shape01 ... Shape12" è possibile selezionare una forma da modificare.Sulla loro destra è anche presente un pulsante "on/off" per visualizzare o nascondere le singole figure. Il pulsante "set" sulla sinsitra invece consente di raggruppare tre figure; in questo modo quando vengono aggiunti dei contenuti tutte le tre figure del set avranno lo stesso contenuto della prima forma del trio. 
 ###  modificare la figura selezionata 
 In questa parte dell'interfaccia è possibile modificare la forma della figura selezionata. Una volta selezionata una forma tramite il pulsante "Shape01 ... Shape12" , è possibile spostare la forma
-utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo)
-
+utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo). Infine è possibile cambiare la tinta della figura tramite il pannello rettangolare dei colori.
 
 ## PERSONALIZZAZIONE
 
-### 
+### aggiungere immagini e video
+Per sostituire la tinta unita della figra con delle immagini o dei video bisogna cliccare sul pulsante blu "show solid color" sotto il pannello dei colori.
+A questo punto è possibile scegliere una serie di contenuti (immagini o video) tra quelli presenti in basso nella sezioni "Pictures" e "Video Files".
+### aggiungere gli effetti
+È possibile capovolgere il contenuto della forma orizzontale o verticale. Inoltre è possibile applicare alle immagini e ai video degli effetti. Per attivare o disattivare l'effetto è sufficiente cliccare sul pulsante con il suo nome nel pannello "Video Effects"; tramite lo slider è anche possibile modificarne l'intensità.
+### aggiungere le maschere
+
+### la modalità "Animate"
+### la modalità "Sequence"
+### creare contenuti con la webcam
+### caricare immagini e video
+
 <!--
 
-2. PERSONALIZZAZIONE
-      - inserire contenuti (disabled color, immagini/video, effetti)
-      - contenuti personalizzati (installazione webcam, registratore, contenuti live, inserire)
-## licenza
-## esempi
-1. MAPPING
-      - creare le forme
-      - ridimensionare le forme
-      - muovere le forme
-2. PERSONALIZZAZIONE
-      - inserire contenuti 
-      - sequence
-      - animate picture
-      - contenuti personalizzati 
 ## errori nell'utilizzo
    - se scompare la patch 
    - webcam non funziona
