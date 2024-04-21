@@ -50,13 +50,11 @@ In questa parte dell'interfaccia è possibile modificare la forma della figura s
 utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo)
 
 
+## PERSONALIZZAZIONE
+
+### 
 <!--
-## Come usare l'estensione
-show stages 
-1. MAPPING
-      - creare le forme
-      - ridimensionare le forme
-      - muovere le forme
+
 2. PERSONALIZZAZIONE
       - inserire contenuti (disabled color, immagini/video, effetti)
       - contenuti personalizzati (installazione webcam, registratore, contenuti live, inserire)
