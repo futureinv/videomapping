@@ -39,17 +39,15 @@ L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videom
    
 
 ## MAPPING
-- <strong> proiettare una figura </strong>
+
+### proiettare una figura 
    Per proiettare una figura sulla parete o sulla superficie desiderata, assicurarsi che il proiettore sia collegato al PC. In seguito dalla barra delle funzioni in alto selezionare "output" >
    "show stages". 
-- <strong> selezionare una figura </strong>
- - Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. Premendo uno dei pulsanti "Shape01 ... Shape12" è possibile selezionare una forma da modificare.
- - Sulla loro destra è anche presente un pulsante "on/off" per visualizzare o nascondere le singole figure.
- - Il pulsante "set" sulla sinsitra invece consente di raggruppare tre figure; in questo modo quando vengono aggiunti dei contenuti tutte le tre figure del set avranno lo stesso contenuto della prima forma del trio. 
-- <strong> modificare la figura selezionata </strong>
-- In questa parte dell'interfaccia è possibile modificare la forma della figura selezionata. Una volta selezionata una forma tramite il pulsante "Shape01 ... Shape12" , è possibile spostare la forma
-utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. 
-- Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo)
+###  selezionare una figura
+Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. Premendo uno dei pulsanti "Shape01 ... Shape12" è possibile selezionare una forma da modificare.Sulla loro destra è anche presente un pulsante "on/off" per visualizzare o nascondere le singole figure. Il pulsante "set" sulla sinsitra invece consente di raggruppare tre figure; in questo modo quando vengono aggiunti dei contenuti tutte le tre figure del set avranno lo stesso contenuto della prima forma del trio. 
+###  modificare la figura selezionata 
+In questa parte dell'interfaccia è possibile modificare la forma della figura selezionata. Una volta selezionata una forma tramite il pulsante "Shape01 ... Shape12" , è possibile spostare la forma
+utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo)
 
 
 <!--
