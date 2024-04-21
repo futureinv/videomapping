@@ -57,9 +57,11 @@ A questo punto è possibile scegliere una serie di contenuti (immagini o video) 
 ### aggiungere gli effetti
 È possibile capovolgere il contenuto della forma orizzontale o verticale. Inoltre è possibile applicare alle immagini e ai video degli effetti. Per attivare o disattivare l'effetto è sufficiente cliccare sul pulsante con il suo nome nel pannello "Video Effects"; tramite lo slider è anche possibile modificarne l'intensità.
 ### aggiungere le maschere
-
+Le maschere, contenute nella sezione "Masks", sono dei filtri che è possibile aggiungere ai video e alle immaginis statiche. Per poterli applicare è necessario cliccare sul pulsante "Enable Alfa Mask" e selezionare il filtro desiderato.
 ### la modalità "Animate"
+Se il contenuto  scelto è un'immagine, si può usare il pulsante "Animate" per mettere in movimento la foto scegliendo la velocità e l'offset.
 ### la modalità "Sequence"
+Quando si lavora con le diverse forme si ha la possibilità di impostare una sequenza di contenuti da riprodurre in sequenza automaticamente. Per farlo  bisogna abbinare a ciascuno "step" della sequenza un'immagine o un video. Tramite il menù a tendina è possibile selezionare lo "step01...step08" e poi scegliere il video o l'immagine da riprodurre in quello step. Tramite la rotella "time image" si può regolare il tempo di visualizzazione in secondi dell'immagine. Il passagio può essere ripetuto fino a un numero massimo di 8 volte. Premendo poi sul tasto "on/off" si avvia la riproduzione della sequenza. Con il pulsante "loop" è possibile attivare/disattivare il loop della sequenza. Quando la sequenza non è attiva, si possono usare i pulsanti + e - per scorrere e visualizzare i singoli step. 
 ### creare contenuti con la webcam
 ### caricare immagini e video
 
