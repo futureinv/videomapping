@@ -29,6 +29,8 @@ Scaricare Isadora 3 dal [sito ufficiale](https://troikatronix.com/get-it/). Una 
 Collegare il proiettore al PC tramite cavo HDMI o USB in dotazione.
 
 
+
+
 <!--
 ## Come usare l'estensione
 show stages 
