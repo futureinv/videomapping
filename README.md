@@ -40,7 +40,8 @@ L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videom
 
 ## MAPPING
 - <strong> proiettare una figura </strong>
- Per proiettare una figura sulla parete o sulla superficie desiderata, assicurarsi che il proiettore sia collegato al PC. In seguito dalla barra delle funzioni in alto selezionare "output" > "show stages". 
+   Per proiettare una figura sulla parete o sulla superficie desiderata, assicurarsi che il proiettore sia collegato al PC. In seguito dalla barra delle funzioni in alto selezionare "output" >
+   "show stages". 
 - <strong> selezionare una figura </strong>
  - Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. Premendo uno dei pulsanti "Shape01 ... Shape12" è possibile selezionare una forma da modificare.
  - Sulla loro destra è anche presente un pulsante "on/off" per visualizzare o nascondere le singole figure.
