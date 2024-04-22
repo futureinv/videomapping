@@ -72,7 +72,13 @@ Tramite una serie di comandi è possibile modificare il video prima o durante la
 - utilizzare i cursori zoom e pan per ritagliare  le immagini della webcam.
 Il video verrà salvato in fondo alla sezione "Video Files".
 
+### caricare immagini e video
+Isadora permette di caricare ed utilizzare i propri contenuti (video e immagini); tuttavia se l'estenione viene usata partendo dalla versione gratuita di Isadore non è possibile salvare le modifiche e i file importati nel progetto.
+Per importare un file selezionare alla voce " View"→ "Media+Information". Dal pannello dei media a questo punto selezionare "Choose File"→ "Import Media". Fare attenzione ed importare le immagini nella cartella "Pictures", i video nella sezione "Video Files" e le maschere nella raccolta "MASKS".
 
+### requisiti delle immagini
+Per essere importate correttamente le immagini devono avere i seguenti requisiti: 
+- 
 
 <!--
 ### caricare immagini e video
