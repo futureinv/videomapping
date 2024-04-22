@@ -77,9 +77,12 @@ Isadora permette di caricare ed utilizzare i propri contenuti (video e immagini)
 Per importare un file selezionare alla voce " View"→ "Media+Information". Dal pannello dei media a questo punto selezionare "Choose File"→ "Import Media". Fare attenzione ed importare le immagini nella cartella "Pictures", i video nella sezione "Video Files" e le maschere nella raccolta "MASKS".
 
 ### requisiti delle immagini
-Per essere importate correttamente le immagini devono avere i seguenti requisiti: 
-- 
 
+Per importare correttamente le immagini bisogna assicurarsi che queste abbiamo i giusti requisiti  
+- formati compatibili:  .png .jpg .gif .tiff and .bmp
+- dimensione massima: 1920×1080 pixels (HD resolution)
+Si consiglia di importare imamgini con una dimensione massima di 960×540 e con una risoluzione di 72dpi.
+  
 <!--
 ### caricare immagini e video
 
