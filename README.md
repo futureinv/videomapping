@@ -82,7 +82,20 @@ Per importare correttamente le immagini bisogna assicurarsi che queste abbiamo i
 - formati compatibili:  .png .jpg .gif .tiff and .bmp
 - dimensione massima: 1920×1080 pixels (HD resolution)
 Si consiglia di importare imamgini con una dimensione massima di 960×540 e con una risoluzione di 72dpi.
-  
+
+### requisiti dei video
+Per importare correttamente le immagini bisogna assicurarsi che queste abbiamo i giusti requisiti  
+Si consiglia di importare video con una dimensione massima di 960×540.
+
+Video Codecs
+• HAP (.mov and .avi)
+• HAPQ (.mov and .avi)
+• HAPA (.mov and .avi)
+• Photo JPEG (.mov and .avi)
+• Apple ProRes (.mov) — Mac OS only
+• Windows Media (.wmv) — Windows only
+• H264 (.mp4, .mov, and .wmv) — non supporta l'interactive playback modes
+
 <!--
 ### caricare immagini e video
 
