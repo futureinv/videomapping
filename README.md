@@ -6,7 +6,7 @@ L'estensione è stata sviluppata per il Museo Nazionale della Scienza e della Te
 
 # Requisiti
   - Programma:
-    Isadora 3 (Troikatronik offre una versione gratuita del programma, compatibile con l'estensione di Github ma che non permette di salvare i contenuti una volta utlimato il lavoro)
+    Isadora - Projection Mapping (Troikatronik offre una versione gratuita del programma, compatibile con l'estensione di GitHub ma che non permette di salvare i contenuti una volta ultimato il lavoro)
   - Sistema operativo:
     - Windows 10
     - Windows 11
@@ -18,24 +18,24 @@ L'estensione è stata sviluppata per il Museo Nazionale della Scienza e della Te
 
 # Installazione
 
-## Isadora
-Per poter utilizzare l'estenzione è necessario scaricare il programma Isadora - Projection Mappingdal [sito ufficiale](https://troikatronix.com/get-it/). Una volta scaricato fare doppio click sul file .exe per installare: per mandare avanti l'installazione è sufficiente cliccare sempre su Next, nella seconda schermata è necessario selezionare "I accept the terms in the license Agreement". L'installazione può richiedere qualche minuto.
+## Isadora - Projection Mapping
+Per poter utilizzare l'estensione è necessario scaricare il programma Isadora - Projection Mapping dal [sito ufficiale](https://troikatronix.com/get-it/). Una volta scaricato fare doppio click sul file .exe per installare: per mandare avanti l'installazione è sufficiente cliccare sempre su "Next", nella seconda schermata è necessario selezionare "I accept the terms in the license Agreement". L'installazione può richiedere qualche minuto.
 
 ## Estensione
-- Scaricare l'estensione dalla pagina Github.
+- Scaricare l'estensione dalla pagina GitHub.
 - Estrarre i file dalla cartella.
 - Aprire con doppio click il file "mappingClient_light_v3_0.izz" per accedere alla versione 3 della patch.
 
 ## Proiettore
-Collegare un proiettore al PC tramite cavo HDMI o USB. Qualsiasi tipo di proiettore è adatto all'attività. È fortemente consigliato l'utilizzo di un cavalletto o di un sistema di stabilizzazione per evitare di compromettere il lavoro del mapping.
+Collegare un proiettore al computer tramite cavo HDMI o USB. Qualsiasi tipo di proiettore è adatto all'attività. È fortemente consigliato l'utilizzo di un cavalletto o di un sistema di stabilizzazione per evitare di compromettere il lavoro del mapping.
 
 ## Webcam
-Collegare una webcam al PC tramite cavo HDMI o USB. La webcam facilita la creazione di contenuti presonalizzati, in caso non fosse possibile reperirla è possibile utilizzare quella del porprio computer.
+Collegare una webcam al computer tramite cavo HDMI o USB. La webcam facilita la creazione di contenuti personalizzati, in caso non fosse possibile reperirla è possibile utilizzare quella del porprio computer.
 
 # Come usare l'estensione
 L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videomapping prevede due fasi:
 1. Mapping: creare una figura geometrica e adattarla alla superficie su cui viene proiettata.
-2. Personalizzazione: proiettare delle immagini o dei video all'interno della forma precedentemente creata. È possibile scegliere tra una serie di elementi presenti nell'estensione, crearne di propri contenuti attraverso una webcam oppure caricare immagini o video dal prorpio pc.
+2. Personalizzazione: proiettare delle immagini o dei video all'interno della forma precedentemente creata. È possibile scegliere tra una serie di elementi presenti nell'estensione, crearne di propri contenuti attraverso una webcam oppure caricare immagini o video dal prorpio computer.
    
 
 ## MAPPING
@@ -101,16 +101,11 @@ Video Codecs
 Per ogni errore o malfunzionamento durante l'utilizzo si invita a consultare il [manuale di istruzioniufficiale](https://troikatronix.com/files/isadora-manual.pdf) di Isadora - Video Mapping.
 Di seguito sono riportati gli errori più comuni durante l'utilizzo della patch.
 
-### il proiettore non proietta le figure
+### le figure non vengono proiettate correttamente
 
 ### i comandi dell'estensione non sono visibili
 
+### la webcam non funziona
 
 
-<!--
 
-## errori nell'utilizzo
-manueale: (https://troikatronix.com/files/isadora-manual.pdf)
-   - se scompare la patch 
-   - webcam non funziona
--->  
