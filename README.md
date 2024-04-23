@@ -40,7 +40,7 @@ L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videom
 1. Mapping: creare una figura geometrica e adattarla alla superficie su cui viene proiettata.
 2. Personalizzazione: proiettare delle immagini o dei video all'interno della forma precedentemente creata. È possibile scegliere tra una serie di elementi presenti nell'estensione, crearne di propri contenuti attraverso una webcam oppure caricare immagini o video dal prorpio computer.
    
-<img src="https://github.com/futureinv/readmeImages/Interface.jpg" width="400" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Interface.jpg" width="400" />
 
 ## MAPPING
 
