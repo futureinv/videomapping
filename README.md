@@ -57,7 +57,7 @@ Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. P
 In questa parte dell'interfaccia è possibile modificare la forma della figura selezionata. Una volta selezionata una forma tramite il pulsante "Shape01 ... Shape12" , è possibile spostare la forma
 utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo). Infine è possibile cambiare la tinta della figura tramite il pannello rettangolare dei colori.
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/SelectShape.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/SelectShape.jpg" width="300" />
 
 ## PERSONALIZZAZIONE
 
@@ -74,17 +74,17 @@ A questo punto è possibile scegliere una serie di contenuti (immagini o video) 
 ### aggiungere gli effetti
 È possibile capovolgere il contenuto della forma orizzontale o verticale. Inoltre è possibile applicare alle immagini e ai video degli effetti. Per attivare o disattivare l'effetto è sufficiente cliccare sul pulsante con il suo nome nel pannello "Video Effects"; tramite lo slider è anche possibile modificarne l'intensità.
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Effect.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Effect.jpg" width="200" />
 
 ### aggiungere le maschere
 Le maschere, contenute nella sezione "Masks", sono dei filtri che è possibile aggiungere ai video e alle immaginis statiche. Per poterli applicare è necessario cliccare sul pulsante "Enable Alfa Mask" e selezionare il filtro desiderato.
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Mask.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Mask.jpg" width="300" />
 
 ### la modalità "Animate"
 Se il contenuto  scelto è un'immagine, si può usare il pulsante "Animate" per mettere in movimento la foto scegliendo la velocità e l'offset.
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/AnimatePicture.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/AnimatePicture.jpg" width="200" />
 
 ### la modalità "Sequence"
 Quando si lavora con le diverse forme si ha la possibilità di impostare una sequenza di contenuti da riprodurre in sequenza automaticamente. Per farlo  bisogna abbinare a ciascuno "step" della sequenza un'immagine o un video. Tramite il menù a tendina è possibile selezionare lo "step01...step08" e poi scegliere il video o l'immagine da riprodurre in quello step. Tramite la rotella "time image" si può regolare il tempo di visualizzazione in secondi dell'immagine. Il passagio può essere ripetuto fino a un numero massimo di 8 volte. Premendo poi sul tasto "on/off" si avvia la riproduzione della sequenza. Con il pulsante "loop" è possibile attivare/disattivare il loop della sequenza. Quando la sequenza non è attiva, si possono usare i pulsanti + e - per scorrere e visualizzare i singoli step. 
