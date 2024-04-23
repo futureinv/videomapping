@@ -89,7 +89,7 @@ Se il contenuto  scelto è un'immagine, si può usare il pulsante "Animate" per 
 ### la modalità "Sequence"
 Quando si lavora con le diverse forme si ha la possibilità di impostare una sequenza di contenuti da riprodurre in sequenza automaticamente. Per farlo  bisogna abbinare a ciascuno "step" della sequenza un'immagine o un video. Tramite il menù a tendina è possibile selezionare lo "step01...step08" e poi scegliere il video o l'immagine da riprodurre in quello step. Tramite la rotella "time image" si può regolare il tempo di visualizzazione in secondi dell'immagine. Il passagio può essere ripetuto fino a un numero massimo di 8 volte. Premendo poi sul tasto "on/off" si avvia la riproduzione della sequenza. Con il pulsante "loop" è possibile attivare/disattivare il loop della sequenza. Quando la sequenza non è attiva, si possono usare i pulsanti + e - per scorrere e visualizzare i singoli step. 
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Sequencec.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Sequence.jpg" width="200" />
 
 ### creare contenuti con la webcam
 La modalità "Live Video" permette di registrare dei propri contenuti video. Premendo su "turn on webcam" il programam attiva la webcam selezionata. Se non compare nessuna immagine assicurarsi di aver collegato correttamente la webcam: dalla barra delle applicazioni in alto andare su o "Input"→ "Live Capture Settings" e selezionare la webcam corretta.
@@ -101,7 +101,7 @@ Tramite una serie di comandi è possibile modificare il video prima o durante la
 - utilizzare i cursori zoom e pan per ritagliare  le immagini della webcam.
 Il video verrà salvato in fondo alla sezione "Video Files".
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Webcam.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Webcam.jpg" width="200" />
 
 ### caricare immagini e video
 Isadora permette di caricare ed utilizzare i propri contenuti (video e immagini); tuttavia se l'estenione viene usata partendo dalla versione gratuita di Isadora non è possibile salvare le modifiche e i file importati nel progetto.
