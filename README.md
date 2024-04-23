@@ -89,7 +89,7 @@ Se il contenuto  scelto è un'immagine, si può usare il pulsante "Animate" per 
 ### la modalità "Sequence"
 Quando si lavora con le diverse forme si ha la possibilità di impostare una sequenza di contenuti da riprodurre in sequenza automaticamente. Per farlo  bisogna abbinare a ciascuno "step" della sequenza un'immagine o un video. Tramite il menù a tendina è possibile selezionare lo "step01...step08" e poi scegliere il video o l'immagine da riprodurre in quello step. Tramite la rotella "time image" si può regolare il tempo di visualizzazione in secondi dell'immagine. Il passagio può essere ripetuto fino a un numero massimo di 8 volte. Premendo poi sul tasto "on/off" si avvia la riproduzione della sequenza. Con il pulsante "loop" è possibile attivare/disattivare il loop della sequenza. Quando la sequenza non è attiva, si possono usare i pulsanti + e - per scorrere e visualizzare i singoli step. 
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Sequence.jpg" width="200" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/Sequence.jpg" width="400" />
 
 ### creare contenuti con la webcam
 La modalità "Live Video" permette di registrare dei propri contenuti video. Premendo su "turn on webcam" il programam attiva la webcam selezionata. Se non compare nessuna immagine assicurarsi di aver collegato correttamente la webcam: dalla barra delle applicazioni in alto andare su o "Input"→ "Live Capture Settings" e selezionare la webcam corretta.
@@ -140,14 +140,14 @@ Nel caso in cui dal proiettore non dovessero comparire le figure o le immagini d
 ### i comandi dell'estensione non sono visibili
 Se i comandi dell'estensionsione non fossero pi+ visibili. Cliccare  con il tasto destro del mouse in un punto qualsiasi dell'area di lavoro → selezionare "show controls"
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/ShowControls.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/ShowControls.jpg" width="400" />
 
 ### la webcam non funziona
 Nel caso in cui il contenuto della webcam non fosse visibile:
 - assicurarsi che la webcam sia colelgata correttamente al computer
 - selezionare la webcam dal menù delle impostazioni presente in "Input" → "Live Capture settings"
 - 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/WebcamSettings.jpg" width="100" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/WebcamSettings.jpg" width="400" />
 
 
 
