@@ -30,7 +30,7 @@ Per poter utilizzare l'estensione è necessario scaricare il programma Isadora -
 - Aprire con doppio click il file "mappingClient_light_v3_0.izz" per accedere alla versione 3 della patch.
 
 Se dovesse comparire l'avviso "Located Missing Media File" cliccare inizialmente su "skip all file"
-Le immagini e i video saranno importati in un secondo momento.
+Le immagini e i video potranno essere importati in un secondo momento.
 
 ## Proiettore
 Collegare un proiettore al computer tramite cavo HDMI o USB. Qualsiasi tipo di proiettore è adatto all'attività. È fortemente consigliato l'utilizzo di un cavalletto o di un sistema di stabilizzazione per evitare di compromettere il lavoro del mapping.
@@ -47,7 +47,7 @@ L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videom
 ## MAPPING
 
 ### proiettare una figura 
-   Per proiettare una figura sulla parete o sulla superficie desiderata, assicurarsi che il proiettore sia collegato al PC. In seguito dalla barra delle funzioni in alto selezionare "output" >
+   Per proiettare una figura sulla parete o sulla superficie desiderata, assicurarsi che il proiettore sia collegato al PC. In seguito dalla barra delle funzioni in alto selezionare "output" →
    "show stages". 
 ###  selezionare una figura
 Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. Premendo uno dei pulsanti "Shape01 ... Shape12" è possibile selezionare una forma da modificare.Sulla loro destra è anche presente un pulsante "on/off" per visualizzare o nascondere le singole figure. Il pulsante "set" sulla sinsitra invece consente di raggruppare tre figure; in questo modo quando vengono aggiunti dei contenuti tutte le tre figure del set avranno lo stesso contenuto della prima forma del trio. 
@@ -58,10 +58,15 @@ utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici c
 ## PERSONALIZZAZIONE
 
 ### importare immagini e video predefiniti
-Assieme alla patch sono stati messi a disposizione delle immagini, delle maschere e dei video predefiniti.
-Per importarli correttamente
+Assieme alla patch sono stati messi a disposizione delle immagini, dei video e delle maschere.
+Se i file non compaiono in basso nelle sezioni "Pictures" e "Video Files", basterà importarli nell'estensione manualmente.
+Per farlo dalla barra delle funzioni selezionare l'opzione "File" →"Import Media". Tenendo premuto il tassto SHIFT, selezionare tutti i video nella cartella "Videos" e claccare su "importa".
+Ripetere lo stesso procedimento per importare le immagini e le maschere.
+
+### proiettare immagini e videdo
 Per sostituire la tinta unita della figra con delle immagini o dei video bisogna cliccare sul pulsante blu "show solid color" sotto il pannello dei colori.
-A questo punto è possibile scegliere una serie di contenuti (immagini o video) tra quelli presenti in basso nella sezioni "Pictures" e "Video Files".
+A questo punto è possibile scegliere una serie di contenuti (immagini o video) tra quelli presenti in basso nelle sezioni "Pictures" e "Video Files".
+
 ### aggiungere gli effetti
 È possibile capovolgere il contenuto della forma orizzontale o verticale. Inoltre è possibile applicare alle immagini e ai video degli effetti. Per attivare o disattivare l'effetto è sufficiente cliccare sul pulsante con il suo nome nel pannello "Video Effects"; tramite lo slider è anche possibile modificarne l'intensità.
 ### aggiungere le maschere
@@ -82,7 +87,7 @@ Il video verrà salvato in fondo alla sezione "Video Files".
 
 ### caricare immagini e video
 Isadora permette di caricare ed utilizzare i propri contenuti (video e immagini); tuttavia se l'estenione viene usata partendo dalla versione gratuita di Isadora non è possibile salvare le modifiche e i file importati nel progetto.
-Per importare un file selezionare alla voce " View"→ "Media+Information". Dal pannello dei media a questo punto selezionare "Choose File"→ "Import Media". Fare attenzione ed importare le immagini nella cartella "Pictures", i video nella sezione "Video Files" e le maschere nella raccolta "MASKS".
+Per importare un file selezionare alla voce " View"→ "Media+Information". Dal pannello dei media a questo punto selezionare "File"→ "Import Media". Fare attenzione ed importare le immagini nella cartella "Pictures", i video nella sezione "Video Files" e le maschere nella raccolta "MASKS".
 
 ### requisiti delle immagini
 
