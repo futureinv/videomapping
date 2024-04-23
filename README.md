@@ -6,7 +6,7 @@ L'estensione è stata sviluppata per il Museo Nazionale della Scienza e della Te
 
 # Requisiti
   - Programma:
-    Isadora 3 
+    Isadora 3 (Troikatronik offre una versione gratuita del programma, compatibile con l'estensione di Github ma che non permette di salvare i contenuti una volta utlimato il lavoro)
   - Sistema operativo:
     - Windows 10
     - Windows 11
@@ -73,7 +73,7 @@ Tramite una serie di comandi è possibile modificare il video prima o durante la
 Il video verrà salvato in fondo alla sezione "Video Files".
 
 ### caricare immagini e video
-Isadora permette di caricare ed utilizzare i propri contenuti (video e immagini); tuttavia se l'estenione viene usata partendo dalla versione gratuita di Isadore non è possibile salvare le modifiche e i file importati nel progetto.
+Isadora permette di caricare ed utilizzare i propri contenuti (video e immagini); tuttavia se l'estenione viene usata partendo dalla versione gratuita di Isadora non è possibile salvare le modifiche e i file importati nel progetto.
 Per importare un file selezionare alla voce " View"→ "Media+Information". Dal pannello dei media a questo punto selezionare "Choose File"→ "Import Media". Fare attenzione ed importare le immagini nella cartella "Pictures", i video nella sezione "Video Files" e le maschere nella raccolta "MASKS".
 
 ### requisiti delle immagini
@@ -88,16 +88,26 @@ Per importare correttamente le immagini bisogna assicurarsi che queste abbiamo i
 Si consiglia di importare video con una dimensione massima di 960×540.
 
 Video Codecs
-• HAP (.mov and .avi)
-• HAPQ (.mov and .avi)
-• HAPA (.mov and .avi)
-• Photo JPEG (.mov and .avi)
-• Apple ProRes (.mov) — Mac OS only
-• Windows Media (.wmv) — Windows only
-• H264 (.mp4, .mov, and .wmv) — non supporta l'interactive playback modes
+- HAP (.mov and .avi)
+- HAPQ (.mov and .avi)
+- HAPA (.mov and .avi)
+- Photo JPEG (.mov and .avi)
+- Apple ProRes (.mov) — Mac OS only
+- Windows Media (.wmv) — Windows only
+- H264 (.mp4, .mov, and .wmv) — non supporta l'interactive playback modes
+
+
+## MALFUNZIOMENTI
+Per ogni errore o malfunzionamento durante l'utilizzo si invita a consultare il [manuale di istruzioniufficiale](https://troikatronix.com/files/isadora-manual.pdf) di Isadora - Video Mapping.
+Di seguito sono riportati gli errori più comuni durante l'utilizzo della patch.
+
+### il proiettore non proietta le figure
+
+### i comandi dell'estensione non sono visibili
+
+
 
 <!--
-### caricare immagini e video
 
 ## errori nell'utilizzo
 manueale: (https://troikatronix.com/files/isadora-manual.pdf)
