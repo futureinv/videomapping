@@ -51,7 +51,8 @@ utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici c
 
 ## PERSONALIZZAZIONE
 
-### aggiungere immagini e video
+### aggiungere immagini e video predefiniti
+Assieme alla patch sono stati messi a disposizione delle immagini, delle maschere e dei video predefiniti.
 Per sostituire la tinta unita della figra con delle immagini o dei video bisogna cliccare sul pulsante blu "show solid color" sotto il pannello dei colori.
 A questo punto è possibile scegliere una serie di contenuti (immagini o video) tra quelli presenti in basso nella sezioni "Pictures" e "Video Files".
 ### aggiungere gli effetti
