@@ -57,7 +57,7 @@ Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. P
 In questa parte dell'interfaccia è possibile modificare la forma della figura selezionata. Una volta selezionata una forma tramite il pulsante "Shape01 ... Shape12" , è possibile spostare la forma
 utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici con i cursore dei quadrati rossi. Nel menù a tendina in alto a sinistra è possibile anche cambiare il tipo di figura (quadrato,cerchio o triangolo). Infine è possibile cambiare la tinta della figura tramite il pannello rettangolare dei colori.
 
-//MODIFICHE
+
 
 ## PERSONALIZZAZIONE
 
@@ -66,8 +66,6 @@ Assieme alla patch sono stati messi a disposizione delle immagini, dei video e d
 Se i file non compaiono in basso nelle sezioni "Pictures" e "Video Files", basterà importarli nell'estensione manualmente.
 Per farlo dalla barra delle funzioni selezionare l'opzione "File" →"Import Media". Tenendo premuto il tassto SHIFT, selezionare tutti i video nella cartella "Videos" e claccare su "importa".
 Ripetere lo stesso procedimento per importare le immagini e le maschere.
-
-//MUOVERE FIGURA
 
 ### proiettare immagini e videdo
 Per sostituire la tinta unita della figra con delle immagini o dei video bisogna cliccare sul pulsante blu "show solid color" sotto il pannello dei colori.
