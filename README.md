@@ -51,7 +51,7 @@ L'interfaccia della patch presenta diversa aree e funzioni. Realizzare un videom
 ###  selezionare una figura
 Nell'area in alto a sinistra dell'interfaccia è presente una lista di figure. Premendo uno dei pulsanti "Shape01 ... Shape12" è possibile selezionare una forma da modificare.Sulla loro destra è anche presente un pulsante "on/off" per visualizzare o nascondere le singole figure. Il pulsante "set" sulla sinsitra invece consente di raggruppare tre figure; in questo modo quando vengono aggiunti dei contenuti tutte le tre figure del set avranno lo stesso contenuto della prima forma del trio. 
 
-<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/ShapeList.jpg" width="400" />
+<img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/ShapeList.jpg" width="50" />
 
 ###  modificare la figura selezionata 
 In questa parte dell'interfaccia è possibile modificare la forma della figura selezionata. Una volta selezionata una forma tramite il pulsante "Shape01 ... Shape12" , è possibile spostare la forma
