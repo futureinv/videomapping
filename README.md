@@ -21,10 +21,16 @@ L'estensione è stata sviluppata per il Museo Nazionale della Scienza e della Te
 ## Isadora - Projection Mapping
 Per poter utilizzare l'estensione è necessario scaricare il programma Isadora - Projection Mapping dal [sito ufficiale](https://troikatronix.com/get-it/). Una volta scaricato fare doppio click sul file .exe per installare: per mandare avanti l'installazione è sufficiente cliccare sempre su "Next", nella seconda schermata è necessario selezionare "I accept the terms in the license Agreement". L'installazione può richiedere qualche minuto.
 
+- se esce missing file
+- imporemo le immagini e i video successivamente
+
 ## Estensione
 - Scaricare l'estensione dalla pagina GitHub.
 - Estrarre i file dalla cartella.
 - Aprire con doppio click il file "mappingClient_light_v3_0.izz" per accedere alla versione 3 della patch.
+
+Se dovesse comparire l'avviso "Located Missing Media File" cliccare inizialmente su "skip all file"
+Le immagini e i video saranno importati in un secondo momento.
 
 ## Proiettore
 Collegare un proiettore al computer tramite cavo HDMI o USB. Qualsiasi tipo di proiettore è adatto all'attività. È fortemente consigliato l'utilizzo di un cavalletto o di un sistema di stabilizzazione per evitare di compromettere il lavoro del mapping.
@@ -51,8 +57,9 @@ utilizzando il cursore del rettangolo grigio oppure spostare i singoli vertici c
 
 ## PERSONALIZZAZIONE
 
-### aggiungere immagini e video predefiniti
+### importare immagini e video predefiniti
 Assieme alla patch sono stati messi a disposizione delle immagini, delle maschere e dei video predefiniti.
+Per importarli correttamente
 Per sostituire la tinta unita della figra con delle immagini o dei video bisogna cliccare sul pulsante blu "show solid color" sotto il pannello dei colori.
 A questo punto è possibile scegliere una serie di contenuti (immagini o video) tra quelli presenti in basso nella sezioni "Pictures" e "Video Files".
 ### aggiungere gli effetti
