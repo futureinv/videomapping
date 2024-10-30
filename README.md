@@ -1,3 +1,5 @@
+(English version below)
+
 # Videomapping #
 Il videomapping è una tecnica che consente di proiettare immagini, animazioni e video su superfici diverse dal classico schermo. Tramite l'utilizzo di un software, infatti, è possibile adattare la proiezione video alla forma e alla dimensione della superficie stessa.
 
@@ -148,5 +150,7 @@ Nel caso in cui il contenuto della webcam non fosse visibile:
 
 <img src="https://github.com/futureinv/videomapping/blob/main/readmeImages/WebcamSettings.jpg" width="400" />
 
-
+# English version
+# Videomapping #
+Videomapping is a technique for projecting images, animations and videos onto surfaces other than the classic screen. Through the use of software, in fact, it is possible to adapt the video projection to the shape and size of the surface itself
 
