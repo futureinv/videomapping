@@ -154,3 +154,148 @@ Nel caso in cui il contenuto della webcam non fosse visibile:
 # Videomapping #
 Videomapping is a technique for projecting images, animations and videos onto surfaces other than the classic screen. Through the use of software, in fact, it is possible to adapt the video projection to the shape and size of the surface itself
 
+The patch contained within the project is designed to make the technique of videomapping accessible to a non-expert audience, starting with the software Isadora - Projection Mapping.
+The extension was developed for the Leonardo da Vinci National Museum of Science and Technology (MUST).
+
+# Requirements.
+- Program:
+Isadora - Projection Mapping (Troikatronik offers a free version of the program, which is compatible with the GitHub extension but does not allow you to save content once the work is completed)
+- Operating system:
+- Windows 10
+- Windows 11
+- macOS 10.14 (Mojave)
+- macOS 13 (Ventura)
+- Computer with dedicated graphics card
+- Projector
+- Webcam
+
+# Installation
+## Isadora - Projection Mapping.
+In order to use the extension you need to download the Isadora - Projection Mapping program from the [official site](https://troikatronix.com/get-it/). Once downloaded double click on the .exe file to install: to send the installation forward you just need to always click on “Next”, on the second screen you need to select “I accept the terms in the license Agreement”. The installation may take a few minutes.
+
+## Extension
+- Download the extension from the GitHub page.
+- Extract the files from the folder.
+- Double-click open the file “mappingClient_light_v3_0.izz” to access version 3 of the patch.
+
+Should the warning “Located Missing Media File” appear, initially click on “skip all files.”
+Images and videos can be imported at a later time.
+
+## Projector
+Connect a projector to the computer via HDMI or USB cable. Any type of projector is suitable for the activity. The use of a tripod or stabilization system is strongly recommended to avoid compromising the mapping work.
+
+## Webcam
+Connect a webcam to your computer via HDMI or USB cable. The webcam facilitates the creation of custom content, in case you cannot find it you can use the one on your computer.
+
+## How to use the extension.
+The patch interface has several areas and functions. Making a videomapping involves two steps:
+1. Mapping: create a geometric figure and adapt it to the surface on which it is projected.
+2. Customization: projecting images or videos within the previously created shape. You can choose from a range of elements in the extension, create your own content through a webcam, or upload images or videos from your own computer.
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/Interface.jpg” width=“500” />
+
+# How to use the extension.
+The patch interface has several areas and functions. Making a videomapping involves two steps:
+1. Mapping: creating a geometric figure and adapting it to the surface on which it is projected.
+2. Customization: projecting images or videos within the previously created shape. You can choose from a range of elements in the extension, create your own content through a webcam, or upload images or videos from your own computer.
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/Interface.jpg” width=“500” />
+
+## MAPPING.
+
+### Projecting a figure. 
+To project a figure on the desired wall or surface, make sure the projector is connected to the PC. Then from the top function bar, select “output” →
+“show stages.” 
+
+### Select a figure.
+In the upper left area of the interface is a list of figures. By pressing one of the buttons “Shape01 ... Shape12” you can select a shape to edit. On their right side there is also an “on/off” button to show or hide individual figures. The “set” button on the left, on the other hand, allows three figures to be grouped together; thus when content is added all three figures in the set will have the same content as the first shape in the trio. 
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/ShapeList.jpg” width=“100” />
+
+## CUSTOMIZATION
+
+### Importing default images and videos.
+Along with the patch, pictures, videos and masks have been made available.
+If the files do not appear at the bottom in the “Pictures” and “Video Files” sections, simply import them into the extension manually.
+To do this from the function bar select the option “File” →“Import Media”. While holding down the SHIFT tassto select all the videos in the “Videos” folder and click on “import.”
+Repeat the same process to import images and masks.
+
+### Projecting images and videdos.
+To replace the solid color of the figure with images or videos you need to click on the blue “show solid color” button under the color panel.
+Then you can choose a range of content (pictures or videos) from those below in the “Pictures” and “Video Files” sections.
+
+### Add effects.
+You can flip the content of the horizontal or vertical shape. You can also apply effects to pictures and videos. To turn the effect on or off, simply click on the button with its name in the “Video Effects” panel; via the slider you can also change its intensity.
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/Effect.jpg” width=“200” />
+
+### Adding Masks.
+Masks, contained in the “Masks” section, are filters that you can add to videos and static images. In order to apply them, you must click on the “Enable Alpha Mask” button and select the desired filter.
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/Mask.jpg” width=“400” />
+
+### The “Animate” mode.
+If the chosen content is a picture, you can use the “Animate” button to set the picture in motion by choosing the speed and offset.
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/AnimatePicture.jpg” width=“100” />
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/Sequence.jpg” width=“500” />
+
+### Create content with the webcam.
+The “Live Video” mode allows you to record your own video content. By pressing on “turn on webcam” the programam activates the selected webcam. If no image appears make sure you have connected the webcam correctly: from the top taskbar go to or “Input”→ “Live Capture Settings” and select the correct webcam.
+To start recording simply click on the “Record” button, to end it click on the button again. 
+Through a series of commands you can edit the video before or during recording. One can:
+- flip the live video image horizontally or vertically.
+- use the “Invert video” button to invert the color of the video.
+- use the contrast sliders to change the brightness/contrast of the video.
+- use the zoom and pan sliders to crop the webcam images.
+The video will be saved at the bottom of the “Video Files” section.
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/Webcam.jpg” width=“200” />
+
+### The “Sequence” mode.
+When working with the different shapes you have the option of setting up a sequence of content to play in sequence automatically. To do this you must match each “step” in the sequence with an image or video. Through the drop-down menu you can select “step01...step08” and then choose the video or image to be played in that step. Using the “time image” wheel, the display time in seconds of the image can be adjusted. The step can be repeated up to a maximum number of 8 times. Then pressing on the “on/off” button starts playback of the sequence. With the “loop” button you can turn the sequence loop on/off. When the sequence is not active, you can use the + and - buttons to scroll and view the individual steps.
+
+### Uploading images and videos
+Isadora allows you to upload and use your own content (videos and images); however, if the extension is used starting from the free version of Isadora you cannot save the changes and imported files in the project.
+To import a file select under “ View” → “Media+Information”. From the media panel at this point select “File”→ “Import Media”. Be careful and import pictures in the “Pictures” folder, videos in the “Video Files” section, and masks in the “MASKS” collection.
+
+### Picture Requirements.
+To import images correctly, you must make sure that they have the right requirements 
+- compatible formats: .png .jpg .gif .tiff and .bmp
+- maximum size: 1920×1080 pixels (HD resolution)
+We recommend importing images with a maximum size of 960×540 and a resolution of 72dpi.
+
+### Video requirements.
+In order to import images correctly, you need to make sure that they have the right requirements. 
+We recommend importing videos with a maximum size of 960×540.
+
+Video Codecs
+- HAP (.mov and .avi)
+- HAPQ (.mov and .avi)
+- HAPA (.mov and .avi)
+- Photo JPEG (.mov and .avi)
+- Apple ProRes (.mov) - Mac OS only
+- Windows Media (.wmv) - Windows only
+- H264 (.mp4, .mov, and .wmv) - does not support interactive playback modes
+
+## MALFUNCTIONS
+Please refer to the [Official Instruction Manual](https://troikatronix.com/files/isadora-manual.pdf) of Isadora - Video Mapping for any errors or malfunctions during use.
+The following are the most common errors while using the patch.
+
+### Figures are not projected correctly.
+In case figures or extension images do not appear from the projector:
+- make sure the projector is properly connected to the computer
+- from the top function bar select “output” → “hide stages” and then “output” → “show stages”
+
+### The extension commands are not visible.
+If the extension commands were no longer visible. Right-click anywhere in the workspace → select “Show Controls”
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/ShowControls.jpg” width=“400” />
+
+### The webcam is not working
+In case the webcam content was not visible:
+- make sure the webcam is properly connected to the computer
+- select the webcam from the settings menu present in “Input” → “Live Capture Settings”
+
+<img src=“https://github.com/futureinv/videomapping/blob/main/readmeImages/WebcamSettings.jpg” width=“400” />
